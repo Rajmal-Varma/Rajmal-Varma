@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *rajmalvarma9@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PdDaeAEP8W7nMbdjp0LHan-C7UkXJTB0/view](https://drive.google.com/file/d/1PdDaeAEP8W7nMbdjp0LHan-C7UkXJTB0/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cJ85fEQjKI4XsvMiaDICF9wW-_2262yk/view?usp=share_link](https://drive.google.com/file/d/1PdDaeAEP8W7nMbdjp0LHan-C7UkXJTB0/view)
 
 - ⚡ Fun fact *I think My management skills is good and i am passionate about development*
 
