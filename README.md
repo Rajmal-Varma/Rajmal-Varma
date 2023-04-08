@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajmal-varma-559aa5209/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />https://www.linkedin.com/in/rajmal-varma-559aa5209/</a>
+<a href="https://www.linkedin.com/in/rajmal-varma-559aa5209/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />Linkden</a>
+  <a href="https://www.codechef.com/users/rajmalvarma123" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />CodeChef</a>
+  <a href="https://leetcode.com/Rajmal_Varma07/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />LeetCode</a>
+  <a href="https://auth.geeksforgeeks.org/user/rajmalvarma/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" alt="" height="30" width="40" />GeeksForGeek</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
