@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Rajmal Varma</h1>
-<h3 align="center">I'm a final year student, at MITS , Gwalior. Frontend Developer & I solve Many problem on GFG using Java programming language</h3>
+<h3 align="center">I'm a final year student, at MITS , Gwalior. Frontend Developer & I solved Many problem on GFG using Java programming language</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantirs&label=Profile%20views&color=0e75b6&style=flat" alt="prashantirs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajmal-Varma&label=Profile%20views&color=0e75b6&style=flat" alt="rajmal varma" /> </p>
 
 - 🌱 **REACT JS**
 
